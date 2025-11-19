@@ -3109,3 +3109,7 @@ local Credits = Settings:AddRightGroupbox('Credits')
 Credits:AddLabel('de_Neuublue - Script')
 Credits:AddLabel('Inori - UI library')
 Credits:AddLabel('wally - UI addons')
+
+						
+-- EvenMoreBluu Features
+
